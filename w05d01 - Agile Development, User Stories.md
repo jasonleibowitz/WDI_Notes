@@ -55,7 +55,7 @@ March 24, 2014
 		* As a power user I want to make a catalogue of all the movies in the world so I can always have info about movies. 
 	* If you ever find yourself with a feature with no user benefit, you may not need that feature. 
 	
-** Parts of a User Story **
+** Parts of a User Story (Class Presentations) **
 
 * Scrum
 	* Analogy for agile development
@@ -83,9 +83,21 @@ March 24, 2014
 		* end of sprint cycle you have iteration or feature of product that is fully functional or tested
 	* Very collaborative and team oriented
 * User Story
-	* 
+	* A way to determine project scope using functionality request by the users
+	* 3 models:
+		* card
+			* a piece of paper describing functionality user would like
+		* conversion
+			* conversaion of that user story into a feature
+		* confirmation
+			* build feature that meets those demands
 * Minimum Viable Product (MVP)
 * Acceptance Testing
+	* Part of the BDD Model
+	* Test you can write based off the user story
+		* makes sure that client or customer when they see the product, it is doing the thing they requested it to do
+	* Before you're done, put the product in the hands of someone to make sure it's doing what you want
+	* Bottom Line: Make sure your user stories are being fulfilled
 * BDD vs TDD
 	* TDD
 		* Concentrates on short development cycles. 
@@ -122,3 +134,97 @@ March 24, 2014
  	* Problem Modeling
  		* Laying out problem and thinking through approach
  		* Modeling the overarching issue: this is what I want to build, what steps do I need to take to build that. 
+ 		
+**User Story Recap**
+
+* Every user story has a *who*, *what*, and a *why*. 
+	* If there's no *why* then there may not be a need for that feature
+	
+---
+	
+### Pivotal Tracker
+
+* Keep track of user stories
+	* [Pivotal Tracker](www.pivotaltracker.com) or [Trello](https://trello.com/) or [Asana](https://asana.com/)
+* Parts
+	* Current
+		* current user stories
+	* Backlog
+	* Icebox
+		* to be worked on later
+	* Done
+		* all finished stories
+* Story Types:
+	* Feature
+	* Bug
+	* Chore - housekeeping, something that needs to be added on to an existing user story
+	* Release - final release of feature
+* User Story Breakdown
+	* Epic
+		* Start with a large user story
+	* Breakdown user story into smaller and smaller parts
+	
+---
+
+### User Stories in Action
+
+** Building out a User Story for an App called *Tunr* **
+
+* App Idea:
+	* Users that can create accounts. 
+	* Library of music users can look at. 
+	* Users can listen to music or add to their own library only after they purchase it. 
+	* Share playlist with friends, but friend can only listen to songs they already own otherwise they can hear a snippet unless they buy it. (notification that they need to buy song)
+	* *Note*: Don't actually have to play song. Just mock out with little button.
+		* envision list of song with actions, and not every action works
+* User Stories:
+	* As a user, I want to: 
+		* create an account so I have access to all tunr features
+		* delete an account because I no longer require the services 
+		* be able to login with my email and password so I have full access to the site
+		* view a list of personal playlists vs shared so i can listen to what i want
+		* search and find songs by title and artist so I can be more efficient at finding songs I like
+		* make playlists of songs that I have not yet purchased/purchased so I can organize my music
+		* be able to edit my playlist so I can better organize my music
+		* be able to buy a song so I can listen to it when I want
+		* have an account balance so I can buy the songs I love
+		* be able to refill my balance so I can keep buying music
+		* gift a song to my friend so i can share the gift
+		* randomly generate a playlist so i can expand my musical horizon
+		* select a playlist to share with another user to share my music with my friends
+		* 
+	* As an admin, I want to:
+		* access user accounts so I can reset a user password in case they forget it
+		* track purchases to see how much money I make
+		* edit the music catalogue to keep my tunes fresh (set price, add, remove)
+		* set prices on songs respond more effectively to the market
+
+---
+
+### First Project Overview
+
+* Topic
+	* Something we're passionate about
+* Scope
+	* Moderately complex
+		* 3 models
+		* 3 ERDs
+	* No Simple CRUD Apps
+		* Should have specific domain-specific funcationality 
+* Misc
+	* Gem
+		* At least one gem that isn't stock
+	* JavaScript
+		* Only build your own CSS
+		* No bootstrap
+	* API
+		* At least one API
+		
+** Coming Up: To Review Before Projects **
+
+* User Authorization
+* APIs
+* Many-to-Many Relationships
+* Migrations
+* Validations
+* Partials	
