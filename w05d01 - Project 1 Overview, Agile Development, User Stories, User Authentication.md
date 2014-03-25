@@ -304,7 +304,7 @@ March 24, 2014
 			* password & pass conf are not attributes we're collecting, but they are attributes that will be coming in via params
 	6. Create views
 	7. Create form
-		* ```f.password_field :passwork```
+		* ```f.password_field :password```
 		* puts dots as you type
 		* field has password and password confirmation fields
 	8. Load bcrypt gem file into Gemfile
@@ -388,7 +388,7 @@ March 24, 2014
 		def edit
 			@user = User.find(params[:id])
 			if current_user == @user
-				render 'end
+				render 'edit'
 			else
 				redirect_to root_path
 			end
