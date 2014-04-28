@@ -114,3 +114,19 @@ git branch -d test_branch
 			// on page load, special event that turbo links triggers
 			$(document).on('page:load', readyFunction); 
 			```
+			
+### Project 2 More Info
+
+* Tech Requirements
+	* User Auth
+	* AJAX
+* Scrum
+	* Scrum as a team at 9am
+* Short Lessons
+	* Every day at 1:30pm
+		* HAML/SASS (optional)
+		* CoffeeScript (optional)
+		* Devise
+		* Simpleform (optional)
+		* JS Timers
+		* Bootstrap (optional)
