@@ -128,6 +128,6 @@ May 13, 2014
  		<% cache [post, post.comment] do %>
  		
  			# post partial goes here
- 		
+ 		 		
  		<% end %>
  		```
