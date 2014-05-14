@@ -77,7 +77,7 @@ May 14, 2014
 	* Example
 		* Example from notebook
 		
-		![From Notebook](w12d03_modulemixins.jpg)
+		![From Notebook](/images/w12d03_modulemixins.jpg)
 		
 		* Put beep method in module and insert module where we want
 	* Code
@@ -92,3 +92,5 @@ May 14, 2014
 		toasty = Toaster.new
 		toasty.beep
 		```
+* Where to put modules
+	* Put them in the ```/lib``` folder, but you have to tell Rails to require files in the lib folder
