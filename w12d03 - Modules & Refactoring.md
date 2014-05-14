@@ -94,3 +94,23 @@ May 14, 2014
 		```
 * Where to put modules
 	* Put them in the ```/lib``` folder, but you have to tell Rails to require files in the lib folder
+	
+### Refactoring
+
+* Code Along with Poker App
+	* Code style makes it hard to read
+		* Bad indentation
+		* Use **rubocop** gem. When you run it it will tell you what to do to make the code better
+	* Variable Names
+		* Variable names should be semantic, clear and descriptive
+	* Complicated Methods
+		* **Single Responsibility Principle** - methods should only have one job. 
+			* If a method has more than one job, you should break it into multiple methods
+		* This ensures code isn't too complicated
+		* Also ensures code is modular
+			* Different code working together live in different places
+			* Makes it easier to reuse part of code
+		* This all manifests itself as "make sure your code doesn't have too many lines"
+		* **NOTE**: Every time you extract functionality into a different method, you should be writing a test for it
+			
+* Common things to look for when refactoring code
