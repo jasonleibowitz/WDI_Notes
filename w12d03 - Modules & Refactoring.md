@@ -77,7 +77,7 @@ May 14, 2014
 	* Example
 		* Example from notebook
 		
-		![From Notebook](/images/w12d03_modulemixins.jpg)
+		![From Notebook](/images/w12d03_modulemixins.jpg =300x)
 		
 		* Put beep method in module and insert module where we want
 	* Code
