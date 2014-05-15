@@ -90,4 +90,11 @@ May 15, 2014
 	
 ### Abstract Data Type
 
-* See reading
+* [Data Structure Visualizations](http://cs.usfca.edu/~galles/visualization/Algorithms.html)
+* Data Objects are optimized for a specific function
+	* Arrays
+		* Pros: optimized to grab any element easily
+		* Cons: may take a lot of space
+	* Stacks
+		* You can add elements to a stack, but you can only get the top thing on the stack. 
+		* Why would you use? They use less memory. You don't have to keep track of where everything is in the stack, only what the top thing is and where it's pointing to.
