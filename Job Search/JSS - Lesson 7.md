@@ -145,3 +145,44 @@
 * Ask questions to assess the current and projected values of equity
 * Decide whether it makes sense to negotiate equity
 * If yes, negotiate 
+
+### Research Company's Health
+
+* Use crunchbase.com/search/advanced/companies to learn about financing amounts and rounds of investments to date
+* Understand what an equity offer means by reading provided material
+* How many founders?
+* What stage is company in?
+* How many engineers do they already have?
+
+### Assessing the Equity Value
+
+* Your challenge is to find the equity's with and % of company that value equates to Post-IPO comany's valuation is easy
+	* Market Cap = Shares outstanding * stock price
+* For a pre-IPO company ask for
+	* Formula used & compensation value of shared/ options (**Perceived value**)
+		* Options mean you own no equity, but you can exercise your options to buy shares
+	* Shared outstanding on a fully diluted basis (**Actual value**)
+	* Shares in the pool, and plans to expand the pool (**Future plans**)
+	* Plans to raise next round of equity (**When will it run out of money**)
+		* Important thing to look at
+		
+### Assessing Equity Value Impacts on You
+
+| What to ask  |  Negotiation Point |
+|---|---|
+| Will the Company refresh when the next round is raised?  | More options at next funding  |
+| What is the liquidation preference that is in front of the common shares?  | What you get if company is sold before next round  |
+| Is there any acceleration of vesting upon a change in control?  | In anticipation of an acquisition  |
+
+### Counteroffer Process Facts
+
+* Don't try to negotiate equity down. it shows you don't believe in the company
+* Base salary (vs equity) negotiation is a sure way of bumping up salary
+* Back up your counteroffer with objective facts, e.g.
+	* slow average market rate
+	* lack of benefits offset by a bump in base
+	* higher offer on the table
+	* Reasons why you are asking for $x
+* Request a face-to-face or call to negotiate - not via email
+* Express eagerness to work (negotiation != lack of interest or threat)
+* Don't mention your lower limit
