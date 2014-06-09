@@ -186,3 +186,25 @@
 * Request a face-to-face or call to negotiate - not via email
 * Express eagerness to work (negotiation != lack of interest or threat)
 * Don't mention your lower limit
+
+### Misc
+
+* Average Vacation Days
+	* 20
+	* Sick Days vary
+	
+---
+
+### Meet & Greet
+
+* Arrive at 5pm
+* 902 Broadway
+* Don't be late
+* Bring:
+	* Computer
+	* Compute charger
+	* printed resumes
+	* business cards
+	* pad of paper/pen
+	* bottle of water
+	* (eat dinner before)
