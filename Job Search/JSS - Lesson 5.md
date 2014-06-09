@@ -41,6 +41,27 @@
 	
 ### Online Portfolio
 
-* 
-
+* Why have one?
+	* Your online portfolio showcases your work to get you noticed by future employers
+* Tips & Tricks
+	* Use brief, unique, clear domain name
+	* Create a tag line about yourself
+	* Show off your projects
+	* List skills, languages & other talents and interesting facts
+	* Easy to navigate
+	* Build your web presence
+	* Be creative
+	* Less is more
+* Typical Portfolio Components
+	* Tagline
+	* About
+	* Projects
+	* Client Testimonials/ Recommendations
+	* Products and Services
+	* Blog, Github, Social Media
+	* PDF of your resume
+* **Tips on my Portfolio**
+	* Title on Intro Section
+	* Titles on Portfolio Images
+	* Text under resume icon link
 	 
