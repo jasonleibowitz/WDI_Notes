@@ -42,7 +42,7 @@ Thomas Wendt
 	* UX Design can be completely independent of medium, doesn't have to be tied to websites or apps. 
 	* Elements of User Experience Graph
 	
-		![elements of user experience](http://services.loudfeed.tv/wp-content/uploads/2013/02/ElementsOfUserExperience-Planes.jpg =300x)
+		![elements of user experience](/ElementsOfUserExperience-Planes.jpg =300x)
 		
 * Experiential Disciplines
 	* Psychology
@@ -136,19 +136,19 @@ Thomas Wendt
 	* Applied to UX, takes a practical approach
 		* Focuses on 3 stages: build, measure and learn
 		
-		![lean ux](http://www.smashingmagazine.com/wp-content/uploads/2012/08/fig-6.png =400x)
+		![lean ux](/fig-6.png =400x)
 * Agile UX (another alternative)
 	* In itself it's a software methodology, a way for developers to work
 	* Takes the waterfall process and chunks it up into smaller pieces
 	* Devs work in sprints instead of working on the entire dev phase of the project
 		* Built features, test them, then move on
 		
-		![Agile](http://softlinksolutions.com/images/agile.jpg =400x)
+		![Agile](/agile.jpg =400x)
 * Design Thinking
 	* Rich background in academia and business
 	* Emphasizes finding a problem, coming up with solutions, then test if solutions are appropriate
 	
-	![design thinking](http://joeyaquino.files.wordpress.com/2012/05/hex_design-1.jpeg =400x)
+	![design thinking](/hex_design-1.jpeg =400x)
 	
 ---
 	
@@ -163,6 +163,25 @@ Thomas Wendt
 		* Even Facebook has features built to cater to specific groups of users
 		* Focus on nuanced groups of people
 	* Ensure that your product solution aligns to analogous behaviors
-* A story about research
-	* 
+* Components
+	* Reasons for Research
+		* Exploratory
+			* Find out what the landscape looks like, what people's day-to-day lives look like
+		* Validating
+			* We're already building something and want to gut-check that it's the most appropriate solution
+	* What Research Helps Answer
+		* Why
+			* Why does a problem exist
+			* What isn't being people within the environment
+		* What
+			* What are behavioral patters
+			* What motivates them to do what they do
+			* What do they think about
+			* What are their needs and frustrations
+			* What are their habits and what do their routines look like
+				* What is the difference between what they say they do and what they actually do 
+		* When
+		* Who
+		* Where
+		* How
 
