@@ -143,7 +143,7 @@ Thomas Wendt
 	* Devs work in sprints instead of working on the entire dev phase of the project
 		* Built features, test them, then move on
 		
-		![Agile](agile.jpg =400x)
+		![Agile](agile.jpg)
 * Design Thinking
 	* Rich background in academia and business
 	* Emphasizes finding a problem, coming up with solutions, then test if solutions are appropriate
