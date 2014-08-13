@@ -42,7 +42,7 @@ Thomas Wendt
 	* UX Design can be completely independent of medium, doesn't have to be tied to websites or apps. 
 	* Elements of User Experience Graph
 	
-		![elements of user experience](/ElementsOfUserExperience-Planes.jpg =300x)
+		![elements of user experience](ElementsOfUserExperience-Planes.jpg =300x)
 		
 * Experiential Disciplines
 	* Psychology
@@ -136,19 +136,19 @@ Thomas Wendt
 	* Applied to UX, takes a practical approach
 		* Focuses on 3 stages: build, measure and learn
 		
-		![lean ux](/fig-6.png =400x)
+		![lean ux](fig-6.png =400x)
 * Agile UX (another alternative)
 	* In itself it's a software methodology, a way for developers to work
 	* Takes the waterfall process and chunks it up into smaller pieces
 	* Devs work in sprints instead of working on the entire dev phase of the project
 		* Built features, test them, then move on
 		
-		![Agile](/agile.jpg =400x)
+		![Agile](agile.jpg =400x)
 * Design Thinking
 	* Rich background in academia and business
 	* Emphasizes finding a problem, coming up with solutions, then test if solutions are appropriate
 	
-	![design thinking](/hex_design-1.jpeg =400x)
+	![design thinking](hex_design-1.jpeg =400x)
 	
 ---
 	
@@ -184,4 +184,86 @@ Thomas Wendt
 		* Who
 		* Where
 		* How
-
+			* How are people dealing with problems you've already identified
+			* Do solutions already exist or are they hacking their own solutions together
+				* if the latter it says a lot to the things we can design
+* How do we get this information (Types of UX Research)
+	* **Ethnography**
+		* What is it?
+			* Literally means 'writing culture'
+				* Insert yourself into different communities or user bases
+			* Being there
+			* Deep hanging out
+			* Observation
+		* Pros v Cons
+			* Pros
+				* The most rich research method we have 
+				* Allows for very deep insight into behavior
+			* Cons
+				* Can sometimes be costly
+	* **Surveys**
+		* What is it?
+			* Allow for gathering a quantifiable information from a large number of people
+				* Bad at finding what motivates people
+			* Most are completed online through tools like Survey Monkey
+		* Pros v Cons
+			* Pros
+				* Gather large numbers of responses very quickly
+				* Get quantitative feedback immediately
+			* Cons
+				* Hard to get rich responses
+				* Often learn about problems but not why they occur
+				* Hard to write surveys
+				* Subject to many cognitive biases
+	* **Interviews**
+		* What is it?
+			* One-on-one discussions with end users
+			* focused on probing behaviors
+		* Pros v Cons
+			* Pros
+				* One-on-one discussion
+				* Can gather rich, targeted information
+				* Flexible, can explored tangents or unexpected areas
+			* Cons
+				* Can be time consuming to organize, run and analyze
+				* Subject to many cognitive biases
+* Where to Find Participants
+	* The hardest part is finding the right people
+		* important to get right users, not just anyone off the street
+	* Where to find them:
+		* anywhere you believe your users spend time
+			* Coffee shops
+				* tell them you're a student because people like talking to students - less off-putting, not selling something, etc.
+			* Social networks and forums
+			* Craigslist ads
+				* Create a screener survey on survey monkey to weed out people you don't want to talk to: ask age, etc. Get $25 for an hour of time
+			* Recruiters
+* How to Ask Questions
+	* Be wary of priming
+	* Don't ask leading questions
+	* Never ask about intention, always probe behavior
+		* Bad Question - "How many times do you plan to go to the gym?"
+		* Good Question - "How many times have you been to the gym in the last 3 months"
+	* Focus on specific instances
+		* Have you ever had _____ problem?
+		* Tell about the last time you...?
+	* Avoid generalizations and speculations
+		* What do you usually...?
+		* What do you intend to...?
+	* Keep people talking
+		* Tell me more about hat
+		* What do you mean by...
+		* Help me understand better..
+	* Embrace awkward silences
+		* Often the best insights come up when participants feel the need to fill silent voids
+		* one of the best skills you can have as an interviewer is learning how to *shut up*
+* Interview Prep
+	* Record if possible
+		* Always ask permission
+		* Explain why and that it's for private use
+	* Focus on topics rather than list of questions
+		* Should be a conversation
+	* If you divert off topic: "That's really interesting. Can you tell me how that connects to..."
+* During the Interview
+	* Start off with small talk, even if you hate it
+	* Take notes but remain focused on participant. 
