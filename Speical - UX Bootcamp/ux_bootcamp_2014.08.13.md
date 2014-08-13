@@ -18,7 +18,7 @@ Thomas Wendt
 | 12:00-12.15  |  Break |
 | 12.15-1:00  |  [Usability and User Testing](#usability-and-user-testing) |
 | 1:00-2:00  |  Lunch |
-| 2:00-3:00  |  Information Architecture |
+| 2:00-3:00  |  [Information Architecture](#information-architecture) |
 | 3:00-3.30  |  Sketching |
 | 3.30-3.45 |  Break |
 | 3.45-4.45  |  Wireframing and Prototyping |
@@ -367,3 +367,118 @@ Thomas Wendt
 		* Report on the good and the bad
 		* Avoid making conclusions (that will come later)
 		* Stick to what you observed in the test
+		
+### <a name="information-architecture">Information Architecture</a>
+
+* Roots in library science
+* Definition
+	* The structural design of shared information environments
+	* The art and science of organizing and labeling web sites, intranets, online communities and software to support usability and fundability
+	* On a broader scale, IA is about creating shared understanding and structured meaning for information spaces
+* [Video on Information Architecture](http://vimeo.com/8866160)
+* **Ontology** (Concept Maps)
+	* Establishes structured knowledge
+	* Maps understanding
+	* Surfaces relationships
+* Taxonomy
+	* Organizes meaning
+	* Maps categories
+	* Creates hierarchy 
+	
+	
+	![taxonomy](ux_taxonomy.jpg)
+	
+* Choreography
+	* How individual pieces of data interact with one another
+	* Includes both synchronized actions (designs) and improvisation (emergence) - things you didn't plan for, but that people took on themselves
+	
+#### Heuristics
+
+* Findable: able to be located
+	* Can users easily locate that which they are seeking?
+		* Maps - can you easily find what you want?
+	* How is fundability affected across channels and devices?
+* Accessible: easily approached or entered
+	* Can someone easily enter into a website and know what they need to do
+	* Offline: wheelchair ramps
+* Clear: easily perceptible
+	* Is it easy to understand?
+	* At first glance can a user understand what the site is all about
+	* Example:
+		* Newspapers. 
+* Communicative: Talkative, informing
+	* Is it giving useful feedback for the process you're going through
+	* Example: you're paying a bill and it shows you a progress bar as it goes through. this is a system being communicative
+	* Example: you're on a subway and the train stops in the middle of the tunnel and intercom mumbles, not communicative 
+* Useful: capable of producing a desired result
+	* difference between novice users and expert users. 
+	* building in features for people unfamiliar to the product
+	* Amazon's buy with one click button and add to cart button
+* Credible: worthy of confidence 
+	* important anytime someone enters a credit card
+	* every startup website they have banner of nascar press logos - all the newspapers that wrote about us - they're going for credibility 
+* Controllable: able to adjust
+	* is a system flexible enough where people can adopt it to their own use patters - or should it be
+		* think of something like twitter stream being completely customizable. you can follow people you want and not follow people that you don't 
+		* airplane cockpit isn't controllable because it has to be standardized 
+* Learnable: able to be fixed in the mind
+	* learning a bike. once you've learned it, you remember it
+* Delightful: greatly pleasing
+	* is something pleasing
+
+#### IA Deliverables
+
+* Site Maps
+	* Takes all of the content of a website and organizes it in a way to make the most sense. 
+	* Start with homepage and categorizes it.
+		* usually turns into navigation of site
+	* Laying out blueprint before you get started
+	
+	![sitemap](sitemap.gif)
+	
+* Content Inventories
+	* Individual pieces of content on a site
+* Task Flows
+	* Mapping out the various ways a user will move through a system
+	* Map how someone completes a goal
+	
+	![task flow](task_flow.gif)
+
+
+### <a name="sketching">Sketching</a>
+
+* Sketching doesn't have to do with artwork, just getting something on paper to help you think. 
+* What is Sketching?
+	* Sketching is the rapid paper-based visualization of high-level ideas, with the aim of capturing their simples essence
+	* It's (probably) not digital nor detailed
+	* Designed for sharing
+	* Quick, cheap, timely, and disposable
+	* Like many things in UX design, it's more about the activity than the artifact
+* Sketching is not about beautiful illustration. It's a basic skill that everyone should have to some degree. 
+	* More important skill is the ability to explain your sketches and the thinking behind them
+	* Fidelity of your sketches should match the fidelity of your thinking
+		* If you're completely at the beginning of a process, your sketches will probably be rough and not detailed
+		* As you work through iterations, they will get more and more detailed and you refine your ideas
+* Tools
+	* Sharpies
+	* Post-Its
+	* iPad app called Paper
+* Examples
+	* Process
+		* Similar to task flow
+		* Process of doing something
+	* Interface
+		* Screens on tablets, phones, desktop, etc. 
+		* Interface designs - great thing to do before getting it in digital form
+	* Scenario
+		* Storyboards, just like a comic book
+		* Go through different scenes of an experience 
+* Some Elements
+	* Sketching screens isn't difficult. Just like wire framing. 
+	* Thinking behind it is what's important 
+	* Elements
+		* Search boxes
+		* Drop down boxes
+		* Media boxes
+		* Box with 'x' represents image (add play button to make video player)
+		* Text - indicated with horizontal lines
