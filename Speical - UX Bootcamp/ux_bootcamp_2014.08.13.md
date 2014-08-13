@@ -136,7 +136,7 @@ Thomas Wendt
 	* Applied to UX, takes a practical approach
 		* Focuses on 3 stages: build, measure and learn
 		
-		![lean ux](fig-6.png =400x)
+		![lean ux](fig-6.png)
 * Agile UX (another alternative)
 	* In itself it's a software methodology, a way for developers to work
 	* Takes the waterfall process and chunks it up into smaller pieces
