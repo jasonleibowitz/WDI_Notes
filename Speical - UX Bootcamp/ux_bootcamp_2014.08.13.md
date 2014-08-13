@@ -19,9 +19,9 @@ Thomas Wendt
 | 12.15-1:00  |  [Usability and User Testing](#usability-and-user-testing) |
 | 1:00-2:00  |  Lunch |
 | 2:00-3:00  |  [Information Architecture](#information-architecture) |
-| 3:00-3.30  |  Sketching |
+| 3:00-3.30  |  [Sketching](#sketching) |
 | 3.30-3.45 |  Break |
-| 3.45-4.45  |  Wireframing and Prototyping |
+| 3.45-4.45  |  [Wireframing and Prototyping](#wireframes) |
 | 4.45-5:00  | Wrap Up | 
 
 ### <a name="us-foundations">UX Foundations</a>
@@ -482,3 +482,105 @@ Thomas Wendt
 		* Media boxes
 		* Box with 'x' represents image (add play button to make video player)
 		* Text - indicated with horizontal lines
+	
+### <a name="wireframes">Wireframes</a>
+
+* What are they?
+	* Each wireframe represents one page. 
+		* Page-level schematic diagrams designed for communication
+	* They represent the kinds of content you see on the screen on a website or app
+	* They illustrate the key user interface of a product, and in aggregate give an overall sense of how the parts of a product hang together 
+* What's it do?
+	* Easily communicate to UI Designer and Developer what you want
+	* To UI Designer: this is the general layout we want
+	* Notes on side mostly talk to developers
+* Wireframing an experience
+	* Wireframes bring together several things:
+		* Structure
+		* Navigation
+		* Information Hierarchy
+		* Interactions
+	* The fidelity of our deliverables should match the fidelity of our thinking
+	
+	![wireframe example](wireframe.jpg)
+* Challenges
+	* Separating the concerns of structure, navigation, layout, interaction
+	* Keeping the documentation up-to-date
+	* Managing changes across multiple wireframes
+	* Fitting the level of detail to the audience
+		* Who's going to see these things? Are you creating final wireframes for designers and developers or very rough version to show business or marketing person? 
+	* Explaining the wireframe to clients	
+		* If you don't work within technology design in some capacity it's very rare you know what a wireframe is
+		* No matter how much you preface it, people will always look at it and think that's the design of the webpage 
+* Are they useful?
+	* Different organizations have different cultures, working practices, and resources. Not everyone is jumping straight to making very lean, interactive prototypes yet!
+		* Some organizations spend months building huge wireframe documents - hundred page documents 
+	* We use wireframes like an architect would show blueprints of a house design - detailed thinking, but still cheaper than building a working model
+	* We use them to articulate our design thinking to ourselves in the same way we use sketches, only at a greater level of detail
+* Tools
+	* The standard is [omnigraffle](https://www.omnigroup.com/omnigraffle). Not necessarily a wire framing tool, but a diagraming tool. 
+	* Some people use illustrator 
+	* There are a ton of new ones that have come out in the last few years
+		* [Balsamiq](http://balsamiq.com/)
+		* Podoko
+		* Proto.io
+		* Flinto
+* Personal Style
+	* There are no hard and fast rules, and everyone has their own style
+	* But there are some standard conventions
+* Styles
+	* Basic Block Diagram
+	* High Level Sketches
+		* Paper sketch, but more details with notes and annotations 
+	* High Level Digital
+		* Not terribly detailed, but show what you need
+	* Detailed and Annotated
+		* Fully detailed and fully annotated 
+	* Uncommon
+		* Responsive Wireframes
+* General Tips
+	* Be clear about your objective before you start
+	* Go for function over aesthetics
+	* Grey levels for emphasis, color to convey meaning
+	* Collaborate with your team
+	* Be consistent in your level of detail
+	* Justify every element's existence
+	* Be clear and professional in documentation  
+
+### Prototyping
+
+* What is a prototype?
+	* Early sample or model to test a concept or process or to act as a thing to be replicated or learned from
+	* Prototypes are a way to enact something
+		* In mobile, it's a way to play out how someone would go through actions before spending time or money. You may learn it's completely useless
+* Why Prototype
+	* It's all about testing
+		* Prototyping is a means of exploring ideas before you invest in them
+* When to Prototype
+	* Discover
+		* What is the user's normal process
+	* Define
+		* Where is our position within the greater market?
+	* Design
+		* Do users understand our features? 
+			* Do users understand what you're building?
+			* Your solution may not be the best solution to the problem
+		* The bulk of it
+* Types of Prototyping (From visual low fidelity to code high fidelity)
+	* Paper
+		* Index Cards
+		* Hacky
+		* Great when you don't have a lot of time or money
+	* Keynote Interactive PDF
+		* You can make some nice looking wireframes and prototypes with this software 
+		* [Keynotopia](http://keynotopia.com/) is a wireframe stencil for Keynote
+	* Fireworks (Balsamiq)
+	* [Hype](http://tumult.com/hype/) | [Hotgloo](http://www.hotgloo.com/)
+	* HTML/JavaScript
+		* Really great for testing certain animations or things that aren't easy to do with a prototyping software
+* Paper Prototypes
+	* Sketchy looking
+	* Someone could interact with it, but it may take more guidance
+	* Fastest and cheapest way of doing it
+* Keynote Prototype
+	* 
