@@ -42,7 +42,7 @@ Thomas Wendt
 	* UX Design can be completely independent of medium, doesn't have to be tied to websites or apps. 
 	* Elements of User Experience Graph
 	
-		![elements of user experience](ElementsOfUserExperience-Planes.jpg =300x)
+		![elements of user experience](ElementsOfUserExperience-Planes.jpg)
 		
 * Experiential Disciplines
 	* Psychology
@@ -148,7 +148,7 @@ Thomas Wendt
 	* Rich background in academia and business
 	* Emphasizes finding a problem, coming up with solutions, then test if solutions are appropriate
 	
-	![design thinking](hex_design-1.jpeg =400x)
+	![design thinking](hex_design-1.jpeg)
 	
 ---
 	
