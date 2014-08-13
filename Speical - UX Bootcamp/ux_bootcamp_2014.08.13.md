@@ -571,16 +571,15 @@ Thomas Wendt
 		* Index Cards
 		* Hacky
 		* Great when you don't have a lot of time or money
+		* Sketchy looking
+		* Someone could interact with it, but it may take more guidance
+		* Fastest and cheapest way of doing it
 	* Keynote Interactive PDF
 		* You can make some nice looking wireframes and prototypes with this software 
 		* [Keynotopia](http://keynotopia.com/) is a wireframe stencil for Keynote
 	* Fireworks (Balsamiq)
+		* Purposefully sketchy looking (look hand sketched)
+			* To jam down your throat that this isn't a final product
 	* [Hype](http://tumult.com/hype/) | [Hotgloo](http://www.hotgloo.com/)
 	* HTML/JavaScript
 		* Really great for testing certain animations or things that aren't easy to do with a prototyping software
-* Paper Prototypes
-	* Sketchy looking
-	* Someone could interact with it, but it may take more guidance
-	* Fastest and cheapest way of doing it
-* Keynote Prototype
-	* 
