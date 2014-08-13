@@ -16,7 +16,7 @@ Thomas Wendt
 | 10:00-11:00  | [UX Foundations](#ux-foundations)  |
 | 11:00-12:00  |  [User Research](#user-research) |
 | 12:00-12.15  |  Break |
-| 12.15-1:00  |  Usability and User Testing |
+| 12.15-1:00  |  [Usability and User Testing](#usability-and-user-testing) |
 | 1:00-2:00  |  Lunch |
 | 2:00-3:00  |  Information Architecture |
 | 3:00-3.30  |  Sketching |
@@ -267,3 +267,103 @@ Thomas Wendt
 * During the Interview
 	* Start off with small talk, even if you hate it
 	* Take notes but remain focused on participant. 
+**Analyzing Results**
+	* Interpretation
+		* People have no idea what they want
+		* Put off conclusions until you interpret your findings
+		* It's your job to interpret what they say
+		* What is said only accounts for a small piece of the actual research insights
+			* it's your job as a designer to interpret what people told you
+
+### Personas
+
+* One of the big deliverables from research are personas
+* What is a persona?
+	* An archetype of a group of users
+	* Created by conducting user research and summarizing trends into one or more archetypes
+	* Does NOT represent a single person
+	* Findings
+		* Needs
+		* Frustrations
+		* Ideal Features
+		* Key attributes
+			* Knowledge
+			* Experience
+			* Help use
+			* Confidence
+* Why are Personas Important
+	* Communication Tool
+	* Good way to gut check yourself
+		* Way to question why you should do something - build something. Is it a need for one of the personas? 
+	* Useful for summarizing what you know about your user
+	* Will help to highlight pain points and opportunities to tailor your product to your user
+	* Keep your product focused on your key users rather than building for the whole world
+	* Keep in mind, this is just a framework, not a blueprint 
+* Basic Persona Template
+	* Box of 4: bio and demographics, behaviors, stories & scenarios, goals/needs
+* Challenges of Personas
+	* They can be artificial, abstract, fictitious
+		* No way to know for sure you're interpreting research findings correctly
+	* They are a composite sketch of multiple people all rolled into one
+	* They don't have opinions
+	* They can't talk back, answer questions, or give feedback
+	
+### <a name="usability-and-user-testing">Usability and User Testing</a>
+
+* Why Do It?
+	* Obtain feedback directly from users
+	* Discover WHY problems are occurring
+	* Gain insight into motivations and satisfaction
+	* Because data alone isn't enough
+* Methods
+	* "Formal" usability:
+		* Requires a facility
+		* Can be quite costly
+		* Often produces a laboratory feel, difficult for users to be comfortable
+			* Non-contexutal. Nobody does this in a lab, they do it at home, work, etc. Misses environmental piece. 
+	* Cafe Test
+		* Going to a public place and recruiting participation in short, casual test
+		* Use this method for informal validation of simple prototypes
+		* Can be seen as risky when working with big brands
+		* Recruitment demographic has to be broad
+	* Remote Usability
+		* Sharing a prototype or live site with a participant over screen sharing software
+		* Use when you want a wide geographic swath
+	* Unmoderated
+		* Working with a company like usertesting.com to create a flow a user goes through on their own
+		* You then get videos of their mouse/screen as well as audio being picked up from their webcam
+		* Good for when you're busy with other things and just want to read the results
+	* Face-to-Face
+		* This is the recommended method (body-language or facial expressions)
+		* Provide users with tasks to complete on a prototype
+		* Encourage them to talk out loud as they move through interactions
+			* Keep people talking about what they're thinking
+			* If they're confused they'll say so out loud
+		* Observe their actions
+* Preparation
+	* Create task scenarios
+		* Should describe the task in a clear and unambiguous way
+		* Written in the user's language (don't use jargon)
+		* Don't prompt the solution
+			* Give general direction and have them figure it out themselves: "find a product and add it to your cart"
+* Task Scenario Example
+	* You want to book a romantic holiday for you and your partner for valentine's day, how would you do that?
+	* NOT: Go to the homepage of romanticholidays.com and click 'sign up now' then click valentine's day
+* Things to Avoid
+	* Asking pax what they "like"
+		* They will only tell you what you want to hear
+		* Tomar Sharon at Google has a talk, "Don't listen to users". Instead observe what they do
+	* Asking pax to predict the future
+		* Asking if a pax would use something like X or might enjoy X feature is not productive
+		* Instead, either ask about current behavior (do you currently do X?) or show them something and observe how they interact with it
+	* Leading people
+		* Let them make their own mistakes; that is valuable
+		* If you give the answers, you'll never learn what you need to learn
+* Outputs
+	* Usually in the form of notes and sometimes video/audio recordings
+	* Usability labs will create full reports
+	* Unmoderated tests will provide data reports and recorded sessions
+	* When writing research notes, remember to:
+		* Report on the good and the bad
+		* Avoid making conclusions (that will come later)
+		* Stick to what you observed in the test
