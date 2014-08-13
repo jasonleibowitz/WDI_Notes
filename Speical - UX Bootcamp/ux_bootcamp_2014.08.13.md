@@ -22,7 +22,7 @@ Thomas Wendt
 | 3:00-3.30  |  [Sketching](#sketching) |
 | 3.30-3.45 |  Break |
 | 3.45-4.45  |  [Wireframing and Prototyping](#wireframes) |
-| 4.45-5:00  | Wrap Up | 
+| 4.45-5:00  | [Wrap Up & Questions](#questions) | 
 
 ### <a name="us-foundations">UX Foundations</a>
 
